@@ -13,7 +13,7 @@
 ## 🚀 About Me
 I'm a Developer in Development, DevOps, and Platform Engineering from India, with 1.5+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
 - 🔭 DevOps Engineer passionate about automation & scalable infrastructure  
-- ☁️ Multi-Cloud Experience: AWS & Azure  
+- ☁️ Multi-Cloud Experience: AWS & GCP
 - 🐳 Containerization & Orchestration Specialist  
 - ⚙️ CI/CD | Infrastructure as Code | Monitoring  
 - 🧠 Always learning & building reliable systems  
