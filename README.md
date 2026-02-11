@@ -11,7 +11,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ## 🚀 About Me
-I'm a Developer in Development, DevOps, and Platform Engineering from 🇮🇳 India, with 1.5+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+I'm a Developer in Development, DevOps, and Platform Engineering from India, with 1.5+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
 - 🔭 DevOps Engineer passionate about automation & scalable infrastructure  
 - ☁️ Multi-Cloud Experience: AWS & Azure  
 - 🐳 Containerization & Orchestration Specialist  
