@@ -7,8 +7,15 @@
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <p>
-    I'm a <strong>Cloud Engineer & Architect</strong> passionate about designing, building, and maintaining scalable, secure, and cost-efficient cloud infrastructures.
-    From architecting multi-cloud environments to automating deployments and optimizing distributed systems — I ensure applications are highly available, resilient, and production-ready.
+    I'm a Developer in Development, DevOps, and Platform Engineering from India, with 1.5+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+- 🔭 DevOps Engineer passionate about automation & scalable infrastructure  
+- ☁️ Multi-Cloud Experience: AWS & GCP
+- 🐳 Containerization & Orchestration Specialist  
+- ⚙️ CI/CD | Infrastructure as Code | Monitoring  
+- 🧠 Always learning & building reliable systems  
+
+---
+
   </p>
   <p>
     As a <strong>Solutions Architect</strong>, I bridge the gap between business requirements and technical execution — translating complex problems into clean, cloud-native architectures that scale with confidence.
