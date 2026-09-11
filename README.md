@@ -31,9 +31,7 @@
   <a href="mailto:abdulmuttalib703@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/channels/harikumarm">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  
   <a href="https://wa.me/7208257046" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -47,7 +45,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-  <img src="https://komarev.com/ghpvc/?username=hari14official&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=muttalib703&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
 
@@ -126,44 +124,48 @@
 📊 GitHub Stats
 Stars
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttalib703&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=muttalib703&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 <br/>
 Statistics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muttalib703&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muttalib703&theme=tokyonight" width="400" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari14official&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muttalib703&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muttalib703&theme=tokyonight" width="400" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" width="805" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttalib703&theme=tokyonight" width="805" />
 </div>
 <br/>
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari14official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muttalib703&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 <br/>
 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib703&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 <br/>
 🐍 Contribution Graph
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 <br/>
+🎵 Playlist
+<div align="center">
+  <img src="./spotify.png" alt="Spotify Playlist" width="600" />
+</div>
 
 ❤️ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/hari14official">
+  <a href="https://www.buymeacoffee.com/muttalib703">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
 </p>
