@@ -128,4 +128,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
 </p>
 
+Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Contribution Snake" />
+</div>
+
+🎵 Now Playing
+
+<div align="center" style="margin: 20px 0">
+  <a href="https://open.spotify.com/user/l6iz7mcjij5oa9utyez8ieumy">
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=l6iz7mcjij5oa9utyez8ieumy&count=5" 
+      alt="Spotify Recently Played" 
+      style="border-radius: 12px; max-width: 100%;"
+    />
+  </a>
+</div>
 
