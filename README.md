@@ -1,94 +1,166 @@
-
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  
-<h2 align="center">Hi 👋, I'm Abdul Muttalib </h2>
-<h3 align="center">Cloud | DevOps | Automation | Infrastructure as Code</h3>
-
----
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-## 🚀 About Me
-I'm a Developer in Development, DevOps, and Platform Engineering from India, with 1.5+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
-- 🔭 DevOps Engineer passionate about automation & scalable infrastructure  
-- ☁️ Multi-Cloud Experience: AWS & GCP
-- 🐳 Containerization & Orchestration Specialist  
-- ⚙️ CI/CD | Infrastructure as Code | Monitoring  
-- 🧠 Always learning & building reliable systems  
-
----
-
-## 🛠️ Tech Stack
-### **Languages & Frameworks**
+  Hi, I'm <strong>ABDUL MUTTALIB</strong>
+</h1>
+<h3>☁️ Cloud Engineer & Architect &nbsp;|&nbsp; Solutions Architect &nbsp;|&nbsp; AWS • Terraform • Kubernetes • Docker</h3>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <p>
+    I'm a <strong>Cloud Engineer & Architect</strong> passionate about designing, building, and maintaining scalable, secure, and cost-efficient cloud infrastructures.
+    From architecting multi-cloud environments to automating deployments and optimizing distributed systems — I ensure applications are highly available, resilient, and production-ready.
+  </p>
+  <p>
+    As a <strong>Solutions Architect</strong>, I bridge the gap between business requirements and technical execution — translating complex problems into clean, cloud-native architectures that scale with confidence.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/☁️_Cloud_Architect-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏗️_Solutions_Architect-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_To_Collab_(Cloud/DevOps)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+<h3>🌐 Socials</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="mailto:hari14official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/harikumarm">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://wa.me/916383220503" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/hari14official">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/harx_.iz?igsh=MXRjcjUyajg4bHIzcg==">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-</p>
-
-### **Databases & Monitoring**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
-</p>
-
-
----
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib703&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://komarev.com/ghpvc/?username=hari14official&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
+<br clear="all" />
 
----
+🧠 What I Do
+<table>
+<tr>
+<th align="center">🏗️ Cloud Architecture</th>
+<th align="center">🔄 DevOps & Automation</th>
+<th align="center">🔐 Security & Reliability</th>
+</tr>
+<tr>
+<td valign="top">
+✦ Design multi-tier, fault-tolerant cloud systems on AWS, GCP & Azure<br/>
+✦ VPC, subnetting, peering, Transit Gateway & hybrid networking<br/>
+✦ Microservices & serverless architecture design<br/>
+✦ Solutions design aligned to business goals
+</td>
+<td valign="top">
+✦ CI/CD pipelines with GitHub Actions, Jenkins & ArgoCD<br/>
+✦ Infrastructure as Code with Terraform & Ansible<br/>
+✦ Container orchestration with Kubernetes & Docker<br/>
+✦ GitOps workflows & release automation
+</td>
+<td valign="top">
+✦ IAM, VPC design, secret management & compliance<br/>
+✦ High availability, disaster recovery & SLA management<br/>
+✦ Cost optimization & FinOps practices<br/>
+✦ Observability: logging, metrics & tracing
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
-
+🛠️ Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Languages & Scripting</h3>
+<img src="https://skillicons.dev/icons?i=python,bash,go,ts" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+   <h3>☁️ Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+    <h3>🧰 Tools & CI/CD</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,ansible,vscode" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🏗️ Architecture & Design</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,kafka" />
+  <br/><br/>
+</td>
+<td width="50%" align="center">
+    <h3>🔭 Monitoring & Observability</h3>
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" />
+    <br/>
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+    <br/><br/>
+</td>
+</tr>
+</table>
 </p>
 
-
-## 📈 Most Used Languages
-
----
-## 🌐 Connect With Me
-
+📊 GitHub Stats
+Stars
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-muttalib-69b7312a5/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muttalib_p/)
-[![Email](https://img.shields.io/badge/Email-abdulmuttalib@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmuttalib703@gmail.com)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+<br/>
+Statistics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" width="400" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari14official&theme=tokyonight" width="400" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" width="805" />
+</div>
+<br/>
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari14official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+<br/>
+📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+<br/>
+🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<br/>
+🎵 Playlist
+<div align="center">
+  <img src="./spotify.png" alt="Spotify Playlist" width="600" />
 </div>
 
----
-## 🧠 DevOps Philosophy
-DevOps is not just tooling — it's culture.
-
-✔ Automation over repetition  
-✔ Reliability over speed  
-✔ Visibility over assumptions  
-✔ Security over shortcuts  
-✔ Collaboration over silos  
-✔ Continuous improvement over comfort
+❤️ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hari14official">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
+  </a>
+</p>
