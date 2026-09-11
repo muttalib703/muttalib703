@@ -134,16 +134,11 @@ Contribution Graph
   <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Contribution Snake" />
 </div>
 
-## 🎵 Arijit Singh Playlist
+## 🎵 Playlist
 
 <div align="center" style="margin: 20px 0">
   <iframe 
     src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID"
-    width="100%" 
-    height="380"
-    frameborder="0"
-    allowtransparency="true"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
+   </iframe>
 </div>
 
