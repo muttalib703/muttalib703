@@ -160,10 +160,6 @@ Statistics
   </picture>
 </div>
 <br/>
-🎵 Playlist
-<div align="center">
-  <img src="./spotify.png" alt="Spotify Playlist" width="600" />
-</div>
 
 ❤️ Support Me
 <p align="center">
