@@ -1,8 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  
 <h2 align="center">Hi 👋, I'm Abdul Muttalib </h2>
 <h3 align="center">Cloud | DevOps | Automation | Infrastructure as Code</h3>
 
