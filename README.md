@@ -139,33 +139,5 @@ Statistics
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttalib703&theme=tokyonight" width="805" />
 </div>
 <br/>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muttalib703&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-<br/>
-📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib703&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
-<br/>
-🐍 Contribution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muttalib703/muttalib703/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br/>
-🎵 Playlist
-<div align="center">
-  <img src="./spotify.png" alt="Spotify Playlist" width="600" />
-</div>
 
-❤️ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/muttalib703">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
-  </a>
 </p>
