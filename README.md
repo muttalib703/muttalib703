@@ -121,23 +121,4 @@
 </table>
 </p>
 
-📊 GitHub Stats
-Stars
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttalib703&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=muttalib703&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-<br/>
-Statistics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muttalib703&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muttalib703&theme=tokyonight" width="400" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muttalib703&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muttalib703&theme=tokyonight" width="400" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttalib703&theme=tokyonight" width="805" />
-</div>
-<br/>
 
-</p>
