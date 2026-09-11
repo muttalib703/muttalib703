@@ -137,8 +137,6 @@ Contribution Graph
 ## 🎵 Playlist
 
 <div align="center" style="margin: 20px 0">
-  <iframe 
     src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID"
-   </iframe>
 </div>
 
