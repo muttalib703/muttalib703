@@ -51,7 +51,6 @@ I'm a Developer in Development, DevOps, and Platform Engineering from India, wit
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
-### **ccna**
 ### **🌐 Networking & CCNA**
 
 <p align="left">
