@@ -134,9 +134,14 @@ Contribution Graph
   <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Contribution Snake" />
 </div>
 
-## 🎵 Playlist
+## 🎵 Coding With Music
 
-<div align="center" style="margin: 20px 0">
-    src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID"
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw">
+    <img src="https://img.shields.io/badge/🎧%20Arijit%20Singh-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <i>“Code • Coffee • Music • Repeat 🎶💻”</i>
+</p>
