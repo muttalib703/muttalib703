@@ -143,5 +143,5 @@ Contribution Graph
 </p>
 
 <p align="center">
-  <i>“Code • Coffee • Music • Repeat 🎶💻”</i>
+  <i>“Code • Coffee • Music 🎶💻”</i>
 </p>
